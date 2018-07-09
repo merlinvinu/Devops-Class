@@ -24,8 +24,8 @@ git push origin --delete branchname1 //delete the merged branch
 git diff
 git revert
 git reset
-
-
+git reset:soft
+git reset:hard
 
 
 
