@@ -20,6 +20,7 @@ git checkout branchname
 git merge branchname1 branchname2
 git rebase branchname1 branchname2
 git branch -d branchname1 //delete the merged branch
+git push origin --delete branchname1 //delete the merged branch
 git diff
 git revert
 git reset
